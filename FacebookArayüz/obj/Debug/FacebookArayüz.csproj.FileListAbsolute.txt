@@ -1,0 +1,39 @@
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\bin\Debug\FacebookArayüz.exe.config
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\bin\Debug\FacebookArayüz.exe
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\bin\Debug\FacebookArayüz.pdb
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\MainWindow.baml
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\MainWindow.g.cs
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\App.g.cs
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz_MarkupCompile.cache
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.g.resources
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.Properties.Resources.resources
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.csproj.GenerateResource.Cache
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.exe
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.pdb
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\bin\Debug\FacebookArayüz.exe.config
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.exe
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.pdb
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\bin\Debug\FacebookArayüz.exe
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\bin\Debug\FacebookArayüz.pdb
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\MainWindow.baml
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\MainWindow.g.cs
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\App.g.cs
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz_MarkupCompile.cache
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.g.resources
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.Properties.Resources.resources
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.csproj.GenerateResource.Cache
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\bin\Debug\FacebookArayüz.exe.config
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\bin\Debug\FacebookArayüz.exe
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\bin\Debug\FacebookArayüz.pdb
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\MainWindow.baml
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\MainWindow.g.cs
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\App.g.cs
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz_MarkupCompile.cache
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.g.resources
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.Properties.Resources.resources
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.csproj.GenerateResource.Cache
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.exe
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\22.11.2016-VizeSonrasi-NesneTabanli\FacebookArayüz\obj\Debug\FacebookArayüz.pdb

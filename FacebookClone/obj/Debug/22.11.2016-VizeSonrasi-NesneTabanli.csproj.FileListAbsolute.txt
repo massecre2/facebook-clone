@@ -1,0 +1,6 @@
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\22.11.2016-VizeSonrasi-NesneTabanli\bin\Debug\22.11.2016-VizeSonrasi-NesneTabanli.exe.config
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\22.11.2016-VizeSonrasi-NesneTabanli\bin\Debug\22.11.2016-VizeSonrasi-NesneTabanli.exe
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\22.11.2016-VizeSonrasi-NesneTabanli\bin\Debug\22.11.2016-VizeSonrasi-NesneTabanli.pdb
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\22.11.2016-VizeSonrasi-NesneTabanli\obj\Debug\22.11.2016-VizeSonrasi-NesneTabanli.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\22.11.2016-VizeSonrasi-NesneTabanli\obj\Debug\22.11.2016-VizeSonrasi-NesneTabanli.exe
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\22.11.2016-VizeSonrasi-NesneTabanli\22.11.2016-VizeSonrasi-NesneTabanli\obj\Debug\22.11.2016-VizeSonrasi-NesneTabanli.pdb

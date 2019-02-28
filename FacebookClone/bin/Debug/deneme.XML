@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Profiller>
+  <Profil>
+    <Adi> Ali Veli</Adi>
+    <Parola>12345</Parola>
+    <KayitYili>2016</KayitYili>
+    <MailAdresi>aliveli@gmail.com </MailAdresi>
+  </Profil>
+  <Profil>
+    <Adi> Ayfe Fatma</Adi>
+    <Parola>111111</Parola>
+    <KayitYili>2015</KayitYili>
+    <MailAdresi>aysefatma@gmail.com </MailAdresi>
+  </Profil>
+  <Profil>
+    <Adi> Hasan Hüseyin</Adi>
+    <Parola>54321</Parola>
+    <KayitYili> 2016</KayitYili>
+    <MailAdresi>hasanhuseyin@yandex.com </MailAdresi>
+  </Profil>
+  <Profil>
+    <Adi>deneme</Adi>
+    <Parola>asfasd</Parola>
+    <KayitYili>1995</KayitYili>
+    <MailAdresi>asda@gmail.com</MailAdresi>
+  </Profil>
+</Profiller>
